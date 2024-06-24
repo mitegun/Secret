@@ -1,0 +1,19 @@
+[
+       {
+              "productId": "6116",
+              "brand": "NIKE",
+              "name": "Dunk High Australia",
+              "productType": "shoe",
+              "image": "https://cdn.shopify.com/s/files/1/2358/2817/products/nike-dunk-high-australia-1_77e085f6-bf74-4fc3-aad8-3a6de9d18288.png?v=1649759029",
+              "count": "1",
+              "variants": [
+                     {
+                            "id": "74450",
+                            "europeanSize": "40",
+                            "price": "6000",
+                            "count": "1",
+                            "MinAcceptOfferPrice": "6000"
+                     }
+              ]
+       }
+]
